@@ -1,7 +1,7 @@
 Hi 👋 My name is Carlos Gomez
 =============================
 
-Data Scientist / ML Engineer | Python, SQL | Help businesses make data-driven decisions and build ML based-data products
+Data Scientist / ML Engineer | Python, ML | Help businesses make data-driven decisions and build ML based-data products
 
 ----------------------------
 ### Socials
@@ -17,6 +17,7 @@ Data Scientist / ML Engineer | Python, SQL | Help businesses make data-driven d
 * Highly experienced in dealing with high dimension datasets using Spark
 * Knowledge of Cloud platforms, especially Google Cloud Platform
 * Good exposure to CI/CD best practices using Jenkins and GCP
+* Highly sklled in SQL and working with data warehouses
 * Worked for industry clients in the telco and banking sectors
 
 ### Skills
@@ -30,7 +31,7 @@ Data Scientist / ML Engineer | Python, SQL | Help businesses make data-driven d
 * Data processing: Numpy, Pandas
 * ETL orchestration: Luigi, Apache Airflow
 * Data visualization: Matplotlib, Seaborn, Plotly
-* Cloud Services: GCP (Vertex AI, Cloud Dataproc, Cloud Build), AWS (Sagemaker, EMR)
+* Cloud Services: GCP (Vertex AI, Cloud Dataproc, Cloud Build, BigQuery), AWS (Sagemaker, EMR)
 * Docker
 * IDEs: Jupyter-lab, Pycharm, IntelliJ
 * Web development with Nodejs and Flask
