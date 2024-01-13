@@ -33,6 +33,7 @@ Data Scientist / ML Engineer | Python, SQL | Help businesses make data-driven d
 * Cloud Services: GCP (Vertex AI, Cloud Dataproc, Cloud Build), AWS (Sagemaker, EMR)
 * Docker
 * IDEs: Jupyter-lab, Pycharm, IntelliJ
+* Web development with Nodejs and Flask
 
 ### Research thesis
 
