@@ -7,7 +7,7 @@ Data Scientist / ML Engineer | Python, ML | Help businesses make data-driven de
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [carlos.gomez.sanchez94@gmail.com](mailto:carlos.gomez.sanchez94@gmail.com)
-* 5+ years in developing end-to-end ML data-based products: gathering initial requirements, discussions with business stakeholders, use cases definition, exploratory analysis, ETL pipelines, ML models, evaluation & A/B testing, model monitoring and production
+* 6+ years in developing end-to-end ML data-based products: gathering initial requirements, discussions with business stakeholders, use cases definition, exploratory analysis, ETL pipelines, ML models, evaluation & A/B testing, model monitoring and production
 * Expertise in applying Machine Learning to solving business use cases, from initial prototypes to production ML-based products following MLOps best practices
 * In-depth understanding of Python
 * Experience in Functional and Object-Oriented Programming styles
